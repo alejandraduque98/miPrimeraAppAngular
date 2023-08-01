@@ -1,27 +1,45 @@
-# Bases
+## Mi primera APP Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+![Mockup](/src/Imagenes/mockUp.png)
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Este proyecto presenta una aplicación básica, realizada en **Angular**, el cual consta de tres secciones, en donde se le presenta al usuario un contador, un formulario y una lista.
 
-## Code scaffolding
+### Componente Contador 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Mockup](/src/Imagenes/App%20de%20angular.png)
 
-## Build
+En la sección del componente del contador, tenía como prioridad implementar los conocimientos adquiridos en el curso, entre ellos se trabajó: interpolación, evento click en angular, métodos, getter y manejo de template   
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+---
 
-## Running unit tests
+### Componente Hero
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Mockup](/src/Imagenes/App%20de%20angular%202.png)
+En la sección del componente del Hero,consta de un formulario en donde se actualiza la  información de este.
+ 
+se implementa los conocimientos adquiridos en el curso, entre ellos se trabajó: creación de componentes, implementación de css,
+interpolación, y  directiva ng-If 
 
-## Running end-to-end tests
+ ---
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+ ### Componente ListHero
 
-## Further help
+ ![Mockup](/src/Imagenes/App%20de%20angular%203.png)
+ 
+En la sección del componente del ListHero, consta de una lista en donde se eliminan elementos de esa lista y los actualiza en un texto.
+ 
+En este componente se trabajó: creación de componentes, implementación de css,
+interpolación,  directiva ng-If, directiva ng-if-else, directiva ng-for, ng-template y la creación de módulos 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ ----
+ ### Tecnologías usadas
+
+ | Tecnología | Column 2 
+|----------|----------|
+| ![Mockup](/src/Imagenes/css.png)  | CSS  |
+| ![Mockup](/src/Imagenes/html.png) | HTML   |
+| ![Mockup](/src/Imagenes/bootstrap.png)|BOOTSTRAP   |
+|![Mockup](/src/Imagenes/angular2.png)  | ANGULAR  |
+| ![Mockup](/src/Imagenes/typescript.png)    | TYPESCRIPT   | 
